@@ -1,0 +1,17 @@
+.header{
+  display: flex;
+  background-color: lightblue;
+  height: 80px;
+  
+}
+.name{
+  padding-top : 15px;
+  padding-left: 15px;
+  width: 50%;
+  color: indigo;
+}
+.links{
+    padding-top:25px;
+    padding-left:20%;
+    width: 50%;
+}
